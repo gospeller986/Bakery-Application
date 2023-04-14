@@ -1,0 +1,12 @@
+@media screen and (min-width: 900px) {
+    .show  {
+        display: flex;
+        flex-direction: column;
+    }
+  }
+
+
+  show{
+    display: flex;
+    flex-direction: row ;
+  }
